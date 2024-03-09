@@ -13,3 +13,6 @@ opt-level = 3
 
 [dependencies]
 bevy = "0.13.0"
+
+[workspace]
+resolver = "2"
